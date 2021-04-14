@@ -1,1 +1,1 @@
-# Machine-Learning_Prediction_of_PM2.5_by_Photographic_and_LIDAR_Measurements
+# Machine-Learning_Prediction_of_PM2.5_by_Photographic_Measurement
